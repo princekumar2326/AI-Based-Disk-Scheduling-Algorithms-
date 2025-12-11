@@ -1,4 +1,4 @@
-# Advanced-Disk-Scheduling-Simulator
+`# Advanced-Disk-Scheduling-Simulator
 
 📖 Overview
 Understanding disk scheduling in operating systems can be challenging. It's a dynamic process that's often difficult to visualize using traditional classroom methods — which typically rely on static diagrams and theoretical explanations.
@@ -48,7 +48,7 @@ Seek time
 🔹 Bridge the gap – from classroom theory to real-world practice
 
 👩‍🏫 Developed Under the Guidance Of
-@Nadia Ma'am – whose valuable mentorship helped shape and refine this project.
+@Kamaljeet Kaur Dhillon – whose valuable mentorship helped shape and refine this project.
 
 📚 Who Is This For?
 This simulator is ideal for:
